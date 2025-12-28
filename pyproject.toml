@@ -11,4 +11,6 @@ dependencies = [
     "google-search-results>=2.4.2",
     "langchain>=1.2.0",
     "langchain-ollama>=1.0.1",
+    "langchain-community>=0.4.1",
+    "openai>=2.14.0",
 ]
